@@ -22,6 +22,12 @@
         <h4>Projects</h4>
         <ul>
            <li ><a href="https://github.com/jevon365/cit281-p1">Project 1</a></li>
+           <li ><a href="https://github.com/jevon365/cit281-p2">Project 2</a></li>
+           <li ><a href="https://github.com/jevon365/cit281-p3">Project 3</a></li>
+           <li ><a href="https://github.com/jevon365/cit281-p4">Project 4</a></li>
+           <li ><a href="https://github.com/jevon365/cit281-p5">Project 5</a></li>
+           <li ><a href="https://github.com/jevon365/cit281-p6">Project 6</a></li>
+           <li ><a href="https://github.com/jevon365/cit281-p7">Project 7</a></li>
         </ul>
     </section>
 </p>
