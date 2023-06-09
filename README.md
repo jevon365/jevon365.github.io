@@ -17,13 +17,11 @@
             <li ><a href="https://github.com/jevon365/cit281-lab6">Lab 6</a></li>
             <li ><a href="https://github.com/jevon365/cit281-lab7">Lab 7</a></li>
             <li ><a href="https://github.com/jevon365/cit281-lab8">Lab 8</a></li>
-            <li ><a href="https://github.com/jevon365/cit281-lab9">Lab 9</a></li>
-           
+            <li ><a href="https://github.com/jevon365/cit281-lab9">Lab 9</a></li>  
         </ul>
         <h4>Projects</h4>
         <ul>
            <li ><a href="https://github.com/jevon365/cit281-p1">Project 1</a></li>
-
         </ul>
     </section>
 </p>
