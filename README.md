@@ -10,25 +10,20 @@
         <h4>Labs</h4>
         <ul>
             <li ><a href="https://github.com/jevon365/cit281-lab1">Lab 1</a></li>
-            <li>Lab 2</li>
-            <li>Lab 3</li>
-            <li>Lab 4</li>
-            <li>Lab 5</li>
-            <li>Lab 6</li>
-            <li>Lab 7</li>
-            <li>Lab 8</li>
-            <li>Lab 9</li>
-            <li>Lab 10</li>
+            <li ><a href="https://github.com/jevon365/cit281-lab2">Lab 2</a></li>
+            <li ><a href="https://github.com/jevon365/cit281-lab3">Lab 3</a></li>
+            <li ><a href="https://github.com/jevon365/cit281-lab4">Lab 4</a></li>
+            <li ><a href="https://github.com/jevon365/cit281-lab5">Lab 5</a></li>
+            <li ><a href="https://github.com/jevon365/cit281-lab6">Lab 6</a></li>
+            <li ><a href="https://github.com/jevon365/cit281-lab7">Lab 7</a></li>
+            <li ><a href="https://github.com/jevon365/cit281-lab8">Lab 8</a></li>
+            <li ><a href="https://github.com/jevon365/cit281-lab9">Lab 9</a></li>
+           
         </ul>
         <h4>Projects</h4>
         <ul>
-            <li>Project 1</li>
-            <li>Project 2</li>
-            <li>Project 3</li>
-            <li>Project 4</li>
-            <li>Project 5</li>
-            <li>Project 6</li>
-            <li>Project 7</li>
+           <li ><a href="https://github.com/jevon365/cit281-p1">Project 1</a></li>
+
         </ul>
     </section>
 </p>
