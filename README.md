@@ -9,7 +9,7 @@
         <h3>CIT 281</h3>
         <h4>Labs</h4>
         <ul>
-            <li href="https://github.com/jevon365/cit281-lab1">Lab 1</li>
+            <li ><a href="https://github.com/jevon365/cit281-lab1">Lab 1</a></li>
             <li>Lab 2</li>
             <li>Lab 3</li>
             <li>Lab 4</li>
