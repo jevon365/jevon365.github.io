@@ -4,6 +4,7 @@
 <h1>Jevons Git</h1>
 
 <p>
+    This is a work in progress if you find this my current best work is in the college repository, please check it out!
     <section>
         <h2>CIT Classes</h2>
         <h3>CIT 281</h3>
