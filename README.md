@@ -1,4 +1,4 @@
-# work Portfolio
+# Work Portfolio
 
 Welcome to my Git, thanks for checking me out. I am a student in my final year of school at the university of Oregon studying economics Information Technology and Political scince. This is a home page for my reposatorys and contact information. I will be adding more to it in time but have just started with the most relevent courses for my career. 
 
