@@ -1,2 +1,0 @@
-# Statistics review in R
-
