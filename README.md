@@ -1,6 +1,6 @@
 # Work Portfolio
 
-Welcome to my Git, thanks for checking me out. I am a student in my final year of school at the University of Oregon studying Economics Information Technology and Political scince. This is a home page for my reposatorys and contact information. I will be adding more to it in time but have just started with the most relevent courses for my career. 
+Welcome to my Git, thanks for checking me out. I am a student in my final year of school at the University of Oregon studying Economics Information Technology and Political scince. This is a home page for my repository and contact information. I will add more to it in time but I have just started with the most relevant courses for my career. 
 
 ## Table of Contents
 - [Contact Information](#contact-information)
@@ -11,7 +11,7 @@ Welcome to my Git, thanks for checking me out. I am a student in my final year o
 ## Contact Information
 
 
-Please reach out to me with any questions or sugguestions Im alway happy to talk to and meat new people
+Please reach out to me with any questions or suggestions I'm alway happy to talk to and meet new people
 
 - Email: jevon365@gmail.com
 - LinkedIn: [Jevon Owen-Kennedy](https://www.linkedin.com/in/jevon-owen-kennedy)
