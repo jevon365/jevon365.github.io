@@ -33,17 +33,36 @@ Description: In this project, I [briefly describe the project's scope and goals]
 
 ## Courses
 
-- **EC 320: Course Name**
+- **EC 320: Econometrics 1**
   - Instructor: [Andrew Dickenson]
   - Semester: Spring 2023
   - [Reposotory](https://github.com/jevon365/EC-320)
+  - Discription:
+
+  
+- **EC 421: Econometrics 2**
+  - Instructor: [Andrew Dickenson]
+  - Semester: Spring 2023
+  - [Reposotory](https://github.com/jevon365/EC-421)
   - Discription: 
 
-- **CIT 281: Course Name**
+- **CIT 281: Applecation Development 1**
   - Instructor: [Instructor's Name]
   - Semester: Spring 2023
   - [Repository](https://github.com/yourusername/course2)
-  - Discription:  
+  - Discription: APIs serverside javascript
+ 
+    - **CIT 881: Database Systems**
+  - Instructor: [Instructor's Name]
+  - Semester: Spring 2023
+  - [Repository](https://github.com/yourusername/course2)
+  - Discription: SQL and mySQL server
+ 
+    - **CIT 382: Applecation Development 2**
+  - Instructor: [Instructor's Name]
+  - Semester: Spring 2023
+  - [Repository](https://github.com/yourusername/course2)
+  - Discription:  React based development
 
 
 Thank you for visiting my Portfolio!
