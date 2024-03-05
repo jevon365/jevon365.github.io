@@ -52,14 +52,14 @@ Description: In this project, I [briefly describe the project's scope and goals]
   - [Repository](https://github.com/yourusername/course2)
   - Discription: APIs serverside javascript
  
-    - **CIT 881: Database Systems**
-  - Instructor: [Instructor's Name]
+    - **CIT 381: Database Systems**
+  - Instructor: [Phil Colbert]
   - Semester: Spring 2023
   - [Repository](https://github.com/yourusername/course2)
   - Discription: SQL and mySQL server
  
     - **CIT 382: Applecation Development 2**
-  - Instructor: [Instructor's Name]
+  - Instructor: [Phil Colbert]
   - Semester: Spring 2023
   - [Repository](https://github.com/yourusername/course2)
   - Discription:  React based development
