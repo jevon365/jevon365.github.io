@@ -29,7 +29,7 @@ Description: This project involved designing and implementing a web application 
 Description: In this project, I [briefly describe the project's scope and goals].
 
 [Link to Project 2 Repository](https://github.com/yourusername/project2)
--->
+
 
 ## Courses
 
@@ -45,7 +45,7 @@ Description: In this project, I [briefly describe the project's scope and goals]
   - Semester: Spring 2023
   - [Reposotory](https://github.com/jevon365/EC-421)
   - Discription: 
-
+-->
 
 
 Thank you for visiting my Portfolio!
