@@ -17,19 +17,20 @@ Please reach out to me with any questions or suggestions I'm alway happy to talk
 - LinkedIn: [Jevon Owen-Kennedy](https://www.linkedin.com/in/jevon-owen-kennedy)
 - GitHub: [Jevon365](https://github.com/jevon365)
 
-<!--
+
 ## Projects
 
-### Project 1: Project Name
-Description: This project involved designing and implementing a web application for [describe project details].
+### Project 1: Bike-Share Case Study
+Description: This is one of the capstone projects that I compleated as part of the Google data analitics certificate [describe project details].
 
 [Link to Project 1 Repository](https://github.com/yourusername/project1)
-
+[Link to PDF Guide](https://github.com/yourusername/project1)
+<!--
 ### Project 2: Project Name
 Description: In this project, I [briefly describe the project's scope and goals].
 
 [Link to Project 2 Repository](https://github.com/yourusername/project2)
-
+-->
 
 ## Courses
 
@@ -45,7 +46,7 @@ Description: In this project, I [briefly describe the project's scope and goals]
   - Semester: Spring 2023
   - [Reposotory](https://github.com/jevon365/EC-421)
   - Discription: 
--->
+
 
 
 Thank you for visiting my Portfolio!
