@@ -1,52 +1,56 @@
-# Work Portfolio
-
-Welcome to my Git, thanks for checking me out. I am a recent graduate from the University of Oregon with a bachlors in Economics and minors in Information Technology and Political science. This is a home page for my repository and contact information. I have a lot more to add, please stay updated. 
-
-## Table of Contents
-- [Contact Information](#contact-information)
-- [Projects (to be added)](#projects)
-- [Courses](#courses)
-
-
-## Contact Information
-
-
-Please reach out to me with any questions or suggestions I'm alway happy to talk to and meet new people
-
-- Email: jevon365@gmail.com
-- LinkedIn: [Jevon Owen-Kennedy](https://www.linkedin.com/in/jevon-owen-kennedy)
-- GitHub: [Jevon365](https://github.com/jevon365)
-
-
-## Projects
-
-### Project 1: Bike-Share Case Study
-Description: This is one of the capstone projects that I compleated as part of the Google data analitics certificate [describe project details].
-
-[Link to Project 1 Repository](https://github.com/yourusername/project1)
-[Link to PDF Guide](https://github.com/yourusername/project1)
-<!--
-### Project 2: Project Name
-Description: In this project, I [briefly describe the project's scope and goals].
-
-[Link to Project 2 Repository](https://github.com/yourusername/project2)
--->
-
-## Courses
-
-- **EC 320: Econometrics 1**
-  - Instructor: [Andrew Dickenson]
-  - Semester: Spring 2023
-  - [Reposotory](https://github.com/jevon365/EC-320)
-  - Discription:
-
+<div align="center">
   
-- **EC 421: Econometrics 2**
-  - Instructor: [Andrew Dickenson]
-  - Semester: Spring 2023
-  - [Reposotory](https://github.com/jevon365/EC-421)
-  - Discription: 
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/jack-portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/jack-portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/jack-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/DdlVKS7MROY?style=social)](https://youtu.be/DdlVKS7MROY)
 
+  <br />
+  <br />
+  
+  <img src="./readme-images/project-logo.png" />
 
+  <h2 align="center">Jack - Personal portfolio</h2>
 
-Thank you for visiting my Portfolio!
+  This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+
+  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
+
+### Demo Screeshots
+
+![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+### Run Locally
+
+To run **jack-portfolio** locally, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/jack-portfolio.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/jack-portfolio.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+This project is **free to use** and does not contains any license.
